@@ -1,0 +1,4 @@
+
+1 - Passo a passo para utlização dos recursos de tradução de áudio em tempo real do Speech language.
+
+2 - Utilização da analise de sentimentos do Language Studio.
